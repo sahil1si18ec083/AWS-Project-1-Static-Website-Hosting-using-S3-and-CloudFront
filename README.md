@@ -9,6 +9,7 @@ The goal of this project is to understand how static websites are deployed in pr
 # Architecture
 
 User → CloudFront CDN → S3 Bucket (Static Website)
+https://d195f3juzt5pmc.cloudfront.net/
 
 CloudFront caches content at edge locations to reduce latency and improve performance for global users.
 
